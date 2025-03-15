@@ -24,7 +24,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link to="/cosmos" className="text-sm hover:text-primary transition-colors">
+                <Link to="/dosha" className="text-sm hover:text-primary transition-colors">
                   Cosmos Experience
                 </Link>
               </li>
