@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <Link to="/" className="inline-block">
-              <span className="text-xl font-bold text-gradient">VEDA.ai</span>
+              <span className="text-xl font-bold text-gradient">AIYURVEDA</span>
             </Link>
             <p className="mt-4 text-sm text-muted-foreground max-w-xs">
               Vital-Enhanced Digital Ayurveda: Bridging ancient wisdom with modern technology for holistic wellness.
@@ -96,7 +96,7 @@ export function Footer() {
         
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row md:items-center justify-between">
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} VEDA.ai. All rights reserved.
+            &copy; {new Date().getFullYear()} AIYURVEDA. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 flex items-center space-x-6">
             <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">

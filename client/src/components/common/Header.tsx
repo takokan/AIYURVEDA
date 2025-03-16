@@ -37,7 +37,7 @@ export function Header({ className }: HeaderProps) {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <div className="flex items-center space-x-8">
           <Link to="/" className="flex items-center space-x-2">
-            <span className="text-xl font-bold text-gradient">VEDA.ai</span>
+            <span className="text-xl font-bold text-gradient">AIYURVEDA</span>
           </Link>
           
           <nav className="hidden md:flex space-x-6">

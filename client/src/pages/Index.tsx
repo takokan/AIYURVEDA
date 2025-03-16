@@ -110,7 +110,7 @@ const Index = () => {
         >
           <div className="container px-4 md:px-6">
             <div className="mb-10 text-center">
-              <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-gradient">Experience VEDA.ai</h2>
+              <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-gradient">Experience AIYURVEDA</h2>
               <p className="mx-auto mt-4 max-w-[700px] text-muted-foreground md:text-xl">
                 Four interconnected modules for a complete wellness journey
               </p>
