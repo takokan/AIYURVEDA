@@ -44,7 +44,7 @@ export function Header({ className }: HeaderProps) {
             <Link to="/pulse" className="text-sm font-medium hover:text-primary transition-colors">
               Pulse+
             </Link>
-            <Link to="/cosmos" className="text-sm font-medium hover:text-primary transition-colors">
+            <Link to="/dosha" className="text-sm font-medium hover:text-primary transition-colors">
               Cosmos
             </Link>
             <Link to="/harmony" className="text-sm font-medium hover:text-primary transition-colors">
@@ -55,6 +55,7 @@ export function Header({ className }: HeaderProps) {
             </Link>
           </nav>
         </div>
+
         
         <div className="flex items-center space-x-4">
           <button className="p-2 rounded-full hover:bg-secondary transition-colors">
